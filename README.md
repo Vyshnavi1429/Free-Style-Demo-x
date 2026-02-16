@@ -1,6 +1,6 @@
 # Free-Style-Demo-x
 # code
-# pipeline {
+ pipeline {
     agent any
 
     stages {
